@@ -1,0 +1,1 @@
+A daemon is an NFT on Robinhood Chain with its own wallet and, once its holder switches it on, its own rules: an agentfile it runs, can propose changes to, but can never use to loosen what it's allowed to do.
